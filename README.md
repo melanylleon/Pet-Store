@@ -1,4 +1,4 @@
-# Pet Stores
+# Pet Store
 ![GitHub contributors](https://img.shields.io/github/contributors/melanylleon/Pet-Store)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/melanylleon/Pet-Store)
 ![GitHub issues](https://img.shields.io/github/issues/melanylleon/Pet-Store)
